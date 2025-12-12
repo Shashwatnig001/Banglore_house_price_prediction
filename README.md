@@ -5,25 +5,30 @@ A machine learning project that predicts house prices in Bangalore based on feat
 **Project Overview**
 The Bangalore House Price Predictor uses historical housing data to estimate property prices.
 It includes:
--Data preprocessing
--Handling missing values
--Outlier removal
--Feature engineering
--Model building (Regression algorithms)
--Model evaluation
+- Data preprocessing
+- Handling missing values
+- Outlier removal
+- Feature engineering
+- Model building (Regression algorithms)
+- Model evaluation
 
 **Dataset**
 The dataset contains features like:
--Location
--Total Sqft
--BHK
--Bath
--Size
--Price
+- Location
+- Total Sqft
+- BHK
+- Bath
+- Size
+- Price
 
 **ML Techniques Used**
--Data Cleaning & EDA
--Label Encoding / One-hot encoding
--Feature Scaling
--Train–test split
--Linear Regression / Lasso / Ridge / Random Forest
+- Data Cleaning & EDA
+- Label Encoding / One-hot encoding
+- Feature Scaling
+- Train–test split
+- Linear Regression / Lasso / Ridge / Random Forest
+
+**Model Performance**
+- R² Score: 0.84
+- Cross-validation score: 80%
+- MAE: 12.4 lakhs
