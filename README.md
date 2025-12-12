@@ -28,5 +28,5 @@ The dataset contains features like:
 - Train–test split
 - Linear Regression / Lasso / Ridge / Random Forest
 
-**Model Performance**
-R² Score: 0.86
+**Model Performance:**
+R² Score = 0.86
