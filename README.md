@@ -29,6 +29,4 @@ The dataset contains features like:
 - Linear Regression / Lasso / Ridge / Random Forest
 
 **Model Performance**
-- R² Score: 0.84
-- Cross-validation score: 80%
-- MAE: 12.4 lakhs
+R² Score: 0.86
